@@ -4,7 +4,6 @@ from tkinter import messagebox
 class PDASimulator:
     def __init__(self):
         # ---------------------------------------------------------
-        # BAGIAN INI BISA DIMODIFIKASI UNTUK MENGHINDARI PLAGIARISME
         # Default: PDA untuk bahasa a^n b^n (n >= 1)
         # ---------------------------------------------------------
         self.start_state = 'q0'
